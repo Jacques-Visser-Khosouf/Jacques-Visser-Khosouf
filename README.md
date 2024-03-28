@@ -1,4 +1,4 @@
-## Hey There 👋 welcome to my Khosouf Studio Corporate Profile 🐋
+## Hey There 👋 Welcome to my Khosouf Studio Corporate Profile 🐋
 
 #### **Links**
 - [Personal GitHub](https://github.com/JacquesJnr/) :octocat:
