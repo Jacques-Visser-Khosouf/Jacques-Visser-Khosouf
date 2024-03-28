@@ -1,8 +1,7 @@
-#### **Portfolio / Socials:**
-- [Portfolio](https://sites.google.com/view/jacquesvisserjnr) 🧑‍💻 
-- [Itch.io](https://jacquesjnr.itch.io) 🎮 
-- ["X"](https://twitter.com/JacquesVJr)  🐦 
-- [YouTube](https://www.youtube.com/channel/UC4c3NKjS2vlJP4EkRqbB-jQ) 🎬
+## Hey There 👋 welcome to my Khosouf Studio Corporate Profile 🐋
+
+#### **Links**
+- [Personal GitHub] (https://github.com/JacquesJnr/) :octocat:
 - [LinkedIn](https://www.linkedin.com/in/jacques-visser-b09786154/) 💼 
 
 ### **About Me:** 😎
