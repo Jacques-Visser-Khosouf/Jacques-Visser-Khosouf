@@ -1,7 +1,7 @@
 ## Hey There 👋 welcome to my Khosouf Studio Corporate Profile 🐋
 
 #### **Links**
-- [Personal GitHub] (https://github.com/JacquesJnr/) :octocat:
+- [Personal GitHub](https://github.com/JacquesJnr/) :octocat:
 - [LinkedIn](https://www.linkedin.com/in/jacques-visser-b09786154/) 💼 
 
 ### **About Me:** 😎
